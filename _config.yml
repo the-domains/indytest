@@ -1,0 +1,14 @@
+layout_spectrum: 0.9802867
+typography_spectrum: 0.6860641
+color:
+  saturation: 0.8402066
+  lightness: 0.6268138
+  brandStrength: 1
+  brandColors:
+    - '#655C53'
+    - '#2E5DBE'
+    - '#6F7692'
+    - '#88B4FA'
+    - '#DFBF87'
+  rhythmicContrast: 0.5537634
+name: Indytest
