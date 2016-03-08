@@ -1,14 +1,26 @@
-layout_spectrum: 0.9802867
-typography_spectrum: 0.6860641
 color:
   saturation: 0.8402066
-  lightness: 0.6268138
   brandStrength: 1
+  rhythmicContrast: 0.5537634
   brandColors:
     - '#655C53'
     - '#2E5DBE'
     - '#6F7692'
     - '#88B4FA'
     - '#DFBF87'
-  rhythmicContrast: 0.5537634
+  lightness: 0.6268138
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9802867
+typography_spectrum: 0.6860641
 name: Indytest
